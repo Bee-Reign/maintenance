@@ -28,6 +28,10 @@
   flex-grow: 1;
 }
 
+.footer a span {
+  margin-left: 0.25rem;
+}
+
 .title a {
   color: #0070f3;
   text-decoration: none;
@@ -42,7 +46,7 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .title,
